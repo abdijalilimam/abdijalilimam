@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>Hi, I'm Abdijalil, an <a href="https://linkedin.com/in/abdijalilimam">IT Professional</a> 💻</h1>
 
 <!--
 **abdijalilimam/abdijalilimam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
