@@ -1,7 +1,7 @@
 <h1>Hi, I'm Abdijalil, an <a href="https://linkedin.com/in/abdijalilimam">IT Professional</a> 💻</h1>
 <h2>📟 Information Technology Projects:</h2>
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation]
+ <p>   ◦  <a href="https://github.com/abdijalilimam/osTicket-Prereqs">osTicket: Prerequisites and Installation </a> </p>
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
