@@ -5,8 +5,8 @@
  → <a href="https://github.com/abdijalilimam/osticket-post">osTicket: Post-Installation Configuration <br>
  → [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle) </p>
 ✔<b>Microsoft Azure</b>
- <p> - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad) <br>
-   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)</p>
+ <p> → [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad) <br>
+   → [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)</p>
 <h2>📱Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
