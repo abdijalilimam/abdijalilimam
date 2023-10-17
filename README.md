@@ -10,7 +10,7 @@
 ✔<b>Microsoft Azure</b>
  <p>
   → <a href="https://github.com/abdijalilimam/ostickets-ad/blob/main/README.md"> Configuring On-premises Active Directory within Azure VMs </a> <br>
-  → Network Security Groups (NSGs) and Inspecting Network Protocols
+  → <a href="https://github.com/abdijalilimam/azure-network-protocols/tree/main"> Network Security Groups (NSGs) and Inspecting Network Protocols
  </p>
 <h2>📱Connect with me:</h2>
 
