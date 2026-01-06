@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abdijalil, an <a href="https://linkedin.com/in/abdijalilimam">IT Professional</a> 💻</h1>
+<h1>Hi, I'm Abdijalil,  <a href="https://linkedin.com/in/abdijalilimam">Devops Engineer</a> 💻</h1>
 
 <h2>📟 Information Technology Projects:</h2>
 ✔<b>Microsoft Azure</b>
