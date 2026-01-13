@@ -3,7 +3,7 @@
 <h2>📟 DevOps Projects:</h2>
 ✔<b>Networking Project<b>
  <p>
- → <a href="https://github.com/abdijalilimam/devops-learning/tree/main/network">: – EC2, NGINX, and DNS </a> <br>
+ → <a href="https://github.com/abdijalilimam/devops-learning/tree/main/network"> EC2, NGINX, and DNS </a> <br>
  </p>
 ✔<b>Microsoft Azure</b>
  <p>
