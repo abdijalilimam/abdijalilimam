@@ -23,4 +23,4 @@
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img src="simpleicons.org" width="20" height="20" style="fill: #0077B5;">](https://www.linkedin.com/in/abdijalilimam/)
+[linkedin]: https://www.linkedin.com/in/abdijalilimam/
