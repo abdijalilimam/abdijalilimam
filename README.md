@@ -27,3 +27,6 @@
 
 [![LinkedIn Badge](img.shields.io)](www.linkedin.com/in/abdijalilimam/)
 
+[![LinkedIn Badge](img.shields.io)](www.linkedin.com)
+
+
