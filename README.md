@@ -13,7 +13,7 @@
   → <a href="https://github.com/abdijalilimam/ostickets-ad/blob/main/README.md"> Configuring On-premises Active Directory within Azure VMs </a> <br>
   → <a href="https://github.com/abdijalilimam/azure-network-protocols/tree/main"> Network Security Groups (NSGs) and Inspecting Network Protocols
  </p>
-   ✔<b>osTicket (Help Desk Ticketing System)</b>
+   ✔<b>osTicket (Ticketing System)</b>
  <p> 
  → <a href="https://github.com/abdijalilimam/osTicket-Prereqs">osTicket: Prerequisites and Installation </a> <br>
  → <a href="https://github.com/abdijalilimam/osticket-post">osTicket: Post-Installation Configuration </a> <br>
