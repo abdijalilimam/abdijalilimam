@@ -1,9 +1,12 @@
 <h1>Hi, I'm Abdijalil,  <a href="https://linkedin.com/in/abdijalilimam">Devops Engineer</a> 💻</h1>
 
 <h2>📟 DevOps Projects:</h2>
-✔<b>Networking Project<b>
+✔<b>Networking & Scripting<b>
  <p>
  → <a href="https://github.com/abdijalilimam/devops-learning/tree/main/network"> EC2, NGINX, and DNS </a> <br>
+ </p>
+  <p>
+ → <a href="https://github.com/abdijalilimam/devops-learning/tree/main/scripting%20"> Bash scripting</a> <br>
  </p>
 ✔<b>Microsoft Azure</b>
  <p>
